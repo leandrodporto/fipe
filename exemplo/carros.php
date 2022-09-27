@@ -58,7 +58,7 @@ try {
     }
 </style>
 <body>
-<p>Exemplo de consulta de carros na Fipe<?php if (!$codMarca) {
+<p>Exemplo de consulta de Carros na Fipe<?php if (!$codMarca) {
     echo ', clique em uma marca para iniciar';
 } ?>.</p>
 <table>
